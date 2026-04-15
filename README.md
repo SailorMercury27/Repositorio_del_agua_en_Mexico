@@ -12,3 +12,4 @@ Sistema de Información de los Objetivos de Desarrollo Sostenible, México. (202
 Datos Gobierno de México, (2026). Delimitación de acuíferos (SHP). Recuperado de https://www.datos.gob.mx/dataset/aguas_subterraneas/resource/fc98de36-0caf-4787-af6d-bf5f0e37b48a
 ODS: 6 Agua
 Breve descripción: 
+El agua es un recurso no renovable, es decir, es finita, pese a ello, la mala gestión urbana ha ocasionado la escasez de este recurso, afectando negativamente en todo el mundo, cada vez se reduce más el porcentaje de agua dulce disponibe en las reservas naturales de nuestro planeta y el cambio global está acentuando las problemáticas existentes: estrés hídrico, aumento de la temperatura media global, contaminación del agua, aire, suelo... Con este tablero buscamos presentar datos que sirvan como sosten de la evidencia de que el problema ya está aquí y es necesario actuar seriamente.
